@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Slope",
+  "description": "Play Slope in your browser!",
+  "version": "1.0",
+  "action": {
+    "default_popup": "slope.html",
+    "default_icon": "slope.png"
+  }
+}
